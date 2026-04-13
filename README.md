@@ -5,6 +5,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+  * [Switch On](#switch-on)
 * [Tests](#tests)
   * [Tests With Strategy A](#tests-with-strategy-a)
   * [Tests With Strategy B](#tests-with-strategy-b)
@@ -13,6 +14,7 @@
 * [Source Code Documentation](#source-code-documentation)
 * [Usage](#usage)
 * [Deployment](#deployment)
+  * [Production Environment](#a-production-environment)
 * [Roadmap](#roadmap)
 * [Acknowledgments](#acknowledgments)
 
@@ -95,6 +97,10 @@ or services._
    git remote -v # confirm the changes
    ```
 
+## Switch On
+
+For example Docker Compose up.
+
 ## Tests
 
 ### Tests with strategy A
@@ -134,6 +140,8 @@ to more resources.
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Deployment
+
+### A Production Environment
 
 How this project can be deployed and run in Production.
 

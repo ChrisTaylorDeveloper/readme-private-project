@@ -5,12 +5,14 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
+  * [Build](#build)
   * [Switch On](#switch-on)
 * [Tests](#tests)
   * [Tests With Strategy A](#tests-with-strategy-a)
   * [Tests With Strategy B](#tests-with-strategy-b)
 * [Database Migrations](#database-migrations)
-* [Code Style](#code-style)
+* [Static Analysis](#static-analysis)
+  * [Code Style](#code-style)
 * [Source Code Documentation](#source-code-documentation)
 * [Usage](#usage)
 * [Deployment](#deployment)
@@ -97,6 +99,13 @@ or services._
    git remote -v # confirm the changes
    ```
 
+### Build
+
+For example:
+
+* Build a jar file
+* Minimise css and javascript
+
 ## Switch On
 
 For example Docker Compose up.
@@ -123,7 +132,9 @@ How to run the database migrations.
 # example of migrationss
 ```
 
-## Code Style
+## Static Analysis
+
+### Code Style
 
 How to run the code style fixer.
 

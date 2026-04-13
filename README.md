@@ -1,5 +1,21 @@
 # The Project Name
 
+* [About The Project](#about-the-project)
+  * [Built with](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Tests](#tests)
+  * [Tests With Strategy A](#tests-with-strategy-a)
+  * [Tests With Strategy B](#tests-with-strategy-b)
+* [Database Migrations](#database-migrations)
+* [Code Style](#code-style)
+* [Source Code Documentation](#source-code-documentation)
+* [Usage](#usage)
+* [Deployment](#deployment)
+* [Roadmap](#roadmap)
+* [Acknowledgments](#acknowledgments)
+
 ## About The Project
 
 There are many great README templates available on GitHub; however, I didn't
@@ -79,15 +95,27 @@ or services._
    git remote -v # confirm the changes
    ```
 
-### Database Migrations
-
-How to run the database migrations.
-
 ## Tests
 
 ### Tests with strategy A
 
+```shell
+# example of running tests
+```
+
 ### Tests with strategy B
+
+```shell
+# example of running tests
+```
+
+## Database Migrations
+
+How to run the database migrations.
+
+```shell
+# example of migrationss
+```
 
 ## Code Style
 
@@ -125,10 +153,8 @@ Use this space to list resources you find helpful and would like to give credit
 to. I've included a few of my favorites to kick things off!
 
 * [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
 * [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
